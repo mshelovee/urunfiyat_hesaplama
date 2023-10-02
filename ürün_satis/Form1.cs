@@ -19,7 +19,8 @@ namespace ürün_satis
 
         private void btnHesapla_Click(object sender, EventArgs e)
         {
-            int fiyat, miktar, tutar;
+            int fiyat, miktar;
+            double tutar;
 
             fiyat = Convert.ToInt32(txtFiyat.Text);
             miktar = Convert.ToInt32(txtMiktar.Text);
@@ -27,7 +28,7 @@ namespace ürün_satis
             tutar = fiyat * miktar;
 
             lblTutar.Text = "Tutar :" + tutar.ToString();
-
+            
         }
     }
 }
