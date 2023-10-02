@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\10A_Hilal\ürün_satis\ürün_satis\bin\Debug\ürün_satis.exe.config
+C:\Users\User\Desktop\KORUMASIZ\10A_Hilal\ürün_satis\ürün_satis\bin\Debug\ürün_satis.exe
+C:\Users\User\Desktop\KORUMASIZ\10A_Hilal\ürün_satis\ürün_satis\bin\Debug\ürün_satis.pdb
+C:\Users\User\Desktop\KORUMASIZ\10A_Hilal\ürün_satis\ürün_satis\obj\Debug\ürün_satis.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\10A_Hilal\ürün_satis\ürün_satis\obj\Debug\ürün_satis.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\10A_Hilal\ürün_satis\ürün_satis\obj\Debug\ürün_satis.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\10A_Hilal\ürün_satis\ürün_satis\obj\Debug\ürün_satis.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\10A_Hilal\ürün_satis\ürün_satis\obj\Debug\ürün_satis.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\10A_Hilal\ürün_satis\ürün_satis\obj\Debug\ürün_satis.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\10A_Hilal\ürün_satis\ürün_satis\obj\Debug\ürün_satis.exe
+C:\Users\User\Desktop\KORUMASIZ\10A_Hilal\ürün_satis\ürün_satis\obj\Debug\ürün_satis.pdb
